@@ -1,0 +1,11 @@
+1class Solution {
+2public:
+3    int elevatorRequests(int n, vector<int>& requests) {
+4
+5      int time = requests[0];
+6      for(int i=1; i<requests.size(); i++){
+7         time += abs(requests[i-1] - requests[i]);
+8      }
+9      return time;
+10    }
+11};
