@@ -1,13 +1,20 @@
-1class Solution {
-2    public void sortColors(int[] a) {
-3       for(int i=0;i<a.length;i++){
-4            for(int j=i+1;j<a.length;j++){
-5                if(a[i]>a[j]){
-6                    int t=a[i];
-7                    a[i]=a[j];
-8                    a[j]=t;
-9                }
-10            }
-11        }
-12    }
-13}
+class Solution {
+public:
+    void sortColors(vector<int>& nums) {
+        int low = 0, mid = 0, high = nums.size()-1;
+        while(mid <= high){
+            if(nums[mid] == 0){
+                swap(nums[low], nums[mid]);
+                low++;
+                mid++;
+            }
+            else if(nums[mid] == 1){
+                mid++;
+            }
+            else{
+                swap(nums[mid], nums[high]);
+                high--;
+            }
+        }
+    }
+};
