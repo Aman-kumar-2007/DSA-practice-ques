@@ -1,0 +1,18 @@
+1class Solution {
+2public:
+3    int minDays(int n) {
+4      vector<int> day(n+1,INT_MAX);
+5       day[0] = -1;
+6
+7       for(int i = 1; i<=n; i++){
+8          int sum = 0;
+9         for(int j = 0; j + sum <=i; j++){
+10           sum += j;
+11           if(day[i - sum] != INT_MAX){
+12             day[i] = min(day[i],day[i - sum] + j + 1);
+13           }
+14         }
+15       }
+16      return day[n];
+17    }
+18};
