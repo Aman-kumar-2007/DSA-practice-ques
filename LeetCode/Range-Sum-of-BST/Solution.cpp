@@ -11,19 +11,11 @@
 11 */
 12class Solution {
 13public:
-14    void solve(TreeNode* root,vector<int>& arr){
-15      if(root == NULL) return;
-16      arr.push_back(root->val);
-17      solve(root->left,arr);
-18      solve(root->right,arr);
-19    }
-20    int rangeSumBST(TreeNode* root, int low, int high) {
-21      vector<int> arr;
-22      solve(root,arr);
-23      int sum = 0;
-24      for(int i=0; i<arr.size(); i++){
-25        if(arr[i] >= low && arr[i] <= high) sum += arr[i];
-26      }
-27      return sum;
-28    }
-29};
+14    int rangeSumBST(TreeNode* root, int low, int high) {
+15      if(root == NULL) return 0;
+16      int x = 0;
+17      if(root->val >= low && root->val <= high) x = root->val;
+18      else x = 0;
+19      return x + rangeSumBST(root->left,low,high) + rangeSumBST(root->right,low,high) ;
+20    }
+21};
