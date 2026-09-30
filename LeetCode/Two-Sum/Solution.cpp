@@ -1,13 +1,16 @@
-1class Solution {
-2public:
-3    vector<int> twoSum(vector<int>& nums, int target) {
-4        for (int i = 0; i < nums.size(); i++) {
-5            for (int j = i + 1; j < nums.size(); j++) {
-6                if (nums[i] + nums[j] == target) {
-7                    return {i, j};
-8                }
-9            }
-10        }
-11        return {};
-12    }
-13};
+1int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
+2    static int result[2];
+3
+4    for (int i = 0; i < numsSize; i++) {
+5        for (int j = i+1; j < numsSize; j++) {
+6            if (nums[i] + nums[j] == target) {
+7               result[0]=i;
+8               result[1]=j;
+9               *returnSize = 2;
+10               return result;
+11            } 
+12        }
+13    }
+14    *returnSize=0;
+15    return NULL;
+16}
