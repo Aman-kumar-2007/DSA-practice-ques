@@ -1,0 +1,37 @@
+1class Solution {
+2public:
+3    vector<int> maxProductPair(vector<int>& arr, int target) {
+4        int n = arr.size();
+5        int i = n - 1;
+6        int j = 0;
+7        int a = -1;
+8        int b = -1;
+9        vector<pair<int,int>> p(n);
+10        
+11        for(int k=0; k<n; k++){
+12           p[k] = {arr[k],k};
+13        }
+14        sort(p.begin(), p.end());
+15        int maxPro = INT_MIN;
+16        bool found = false;
+17        while (j < i) {
+18            int sum = p[j].first +p[i].first;
+19            if (sum == target) {
+20                if(p[i].first > p[j].first){
+21                  int currPro = p[i].first * p[j].first;
+22                  if(!found || currPro > maxPro){
+23                    a = p[i].second;
+24                    b = p[j].second;
+25                    found = true;
+26                  }
+27                }
+28                j++;
+29                i--;
+30            } else if (sum > target) {
+31                i--;
+32            } else
+33                j++;
+34        }
+35        return {a, b};
+36    }
+37};
