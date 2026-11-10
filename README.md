@@ -14,6 +14,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0075-sort-colors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2974-minimum-number-game](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/2974-minimum-number-game) |
 ## Tree
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0075-sort-colors) |
+| [2974-minimum-number-game](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,4 +48,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0075-sort-colors) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/2974-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
