@@ -56,4 +56,8 @@
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/2974-minimum-number-game) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
