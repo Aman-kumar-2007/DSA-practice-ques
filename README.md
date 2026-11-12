@@ -18,10 +18,12 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -30,6 +32,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0100-same-tree) |
 ## Array
 |  |
@@ -60,4 +63,8 @@
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0092-reverse-linked-list-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
