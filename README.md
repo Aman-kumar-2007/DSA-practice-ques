@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0048-rotate-image) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Greedy
 |  |
@@ -37,6 +38,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0075-sort-colors) |
 | [2974-minimum-number-game](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/2974-minimum-number-game) |
 ## Two Pointers
@@ -75,4 +77,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0191-number-of-1-bits) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
