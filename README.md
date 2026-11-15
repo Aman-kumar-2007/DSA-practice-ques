@@ -81,4 +81,12 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0048-rotate-image) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
