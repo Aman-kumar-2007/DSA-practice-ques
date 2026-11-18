@@ -19,12 +19,14 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0101-symmetric-tree) |
@@ -36,6 +38,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0101-symmetric-tree) |
@@ -88,6 +91,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0155-min-stack) |
 ## Design
 |  |
