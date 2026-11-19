@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0070-climbing-stairs) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Greedy
 |  |
@@ -97,4 +98,12 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0155-min-stack) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
