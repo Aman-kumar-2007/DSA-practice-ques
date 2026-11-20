@@ -48,6 +48,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0075-sort-colors) |
+| [0198-house-robber](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0198-house-robber) |
 | [2974-minimum-number-game](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
