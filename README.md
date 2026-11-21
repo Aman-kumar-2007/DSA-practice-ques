@@ -46,6 +46,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0198-house-robber) |
@@ -108,4 +109,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
