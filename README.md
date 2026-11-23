@@ -6,6 +6,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0202-happy-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Greedy
 |  |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0202-happy-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -121,4 +123,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
