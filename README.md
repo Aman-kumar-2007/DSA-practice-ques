@@ -15,6 +15,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0075-sort-colors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2974-minimum-number-game](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/2974-minimum-number-game) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0198-house-robber) |
 | [2974-minimum-number-game](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/2974-minimum-number-game) |
@@ -63,6 +65,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
