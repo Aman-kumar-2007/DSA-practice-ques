@@ -57,6 +57,7 @@
 | [0056-merge-intervals](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0198-house-robber) |
+| [0494-target-sum](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0494-target-sum) |
 | [2974-minimum-number-game](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
@@ -116,6 +117,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0198-house-robber) |
+| [0494-target-sum](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0494-target-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -136,4 +138,16 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0202-happy-number) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
