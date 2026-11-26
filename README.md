@@ -8,6 +8,7 @@
 | [0070-climbing-stairs](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/0202-happy-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3360-stone-removal-game](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/3360-stone-removal-game) |
 ## Greedy
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/2974-minimum-number-game) |
+| [3360-stone-removal-game](https://github.com/Aman-kumar-2007/DSA-practice-ques/tree/master/3360-stone-removal-game) |
 ## Linked List
 |  |
 | ------- |
